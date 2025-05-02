@@ -14,7 +14,7 @@ This tool enhances understanding of DNS behavior and provides a practical method
 ## Usage
 1. Ensure you have Python installed.
 2. Install the required `dnspython` library if not already installed:
-3. Run the script:
+3. Run the script
 4. Enter the domain name to query when prompted (do NOT include `http://` or `https://`).
 
 ## Example Screenshot
